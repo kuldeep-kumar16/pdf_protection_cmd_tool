@@ -3,14 +3,14 @@ A simple Python script to add password protection to PDF files using the pypdf l
 This tool allows you to create a new PDF with a password, ensuring your documents remain secure.
 <br>
 Features <br>
-Encrypt any PDF with a user-defined password.
-Handles multi-page PDFs.
-Friendly error messages for missing files.
-Lightweight and easy to use.
+Encrypt any PDF with a user-defined password. <br>
+Handles multi-page PDFs.<br>
+Friendly error messages for missing files.<br>
+Lightweight and easy to use.<br>
 <br>
-Requirements
-Python 3.7 or higher
-pypdf library
+Requirements <br>
+Python 3.7 or higher<br>
+pypdf library<>br
 <br>
-Install pypdf via pip:
-pip install pypdf
+Install pypdf via pip:<br>
+pip install pypdf<br>
